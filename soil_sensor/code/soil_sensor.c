@@ -1,7 +1,7 @@
 #define SENSOR  4
 
-int thresholdUp = 400;
-int thresholdDown = 250;
+/*int thresholdUp = 400;
+int thresholdDown = 250;*/
 int sensorPin = A1;
 
 void setup(){
